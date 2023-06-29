@@ -14,3 +14,7 @@ The ball's throw is randomized using a formula that creates a curve that ends at
 The ball can be hit, and is redirected to fly off screen, then and respawns when off screen.
 Demonstration using Thumby emulator:
 ![bballbash_thumby](https://github.com/cscrosati98/B-Ball-Bash/assets/93940260/e2cc163c-eafe-45b1-9bab-0f0c268221d4)
+
+Known Issues:
+Sometimes the swing animation will not play, but a swing will be counted on button press.
+Ball Sprite sometimes cuts off bat sprite, need to find a better way to draw sprite in order with game logic. 
