@@ -12,3 +12,5 @@ The pixel art was also done by me, but the text is included as a system function
 The ball's throw is randomized using a formula that creates a curve that ends at the randomized value on the x-axis, and starts at a semi-random value on the y-axis. 
 
 The ball can be hit, and is redirected to fly off screen, then and respawns when off screen.
+Demonstration using Thumby emulator:
+![bballbash_thumby](https://github.com/cscrosati98/B-Ball-Bash/assets/93940260/e2cc163c-eafe-45b1-9bab-0f0c268221d4)
